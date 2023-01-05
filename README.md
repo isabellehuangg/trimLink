@@ -13,4 +13,4 @@
 - Set up the appropriate tables with trim_link, long_link, clicks, action columns
 - Open config.php and update the MySQL database configuration with the correct hostname (localhost), username, password (empty), and database name
 
-Then proceed to use trimLink! Edit or delete shortened URLs by clicking the corresponding buttons in the URL list
+Then proceed to use trimLink! Edit or delete shortened links by clicking the corresponding buttons on the webpage ("Clear All Links" or "Delete" under the "Actions" column).
